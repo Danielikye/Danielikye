@@ -85,11 +85,11 @@ Name | Badges
  
 ## Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuraxworld&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielikye&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuraxworld&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Danielikye&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuraxworld&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danielikye&theme=dark" alt="GitHub Streak Stats" />
 </p>
